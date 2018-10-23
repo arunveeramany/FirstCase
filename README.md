@@ -1,2 +1,6 @@
 # FirstCase
-use starting point as solution and create solution files; Delta=0 for each contingency
+GO Competition Challenge 1 first case feasible solution
+
+Project starting point onto feasible bounds,
+create solution files,
+Delta=0 for each contingency
